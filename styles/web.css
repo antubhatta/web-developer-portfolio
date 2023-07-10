@@ -217,5 +217,21 @@ margin-top: 20px;
 margin-right: 100px;
 
 }
+.social-link a{
+    margin-right: 24px;
+    width: 24px;
+height: 24px;
+}
+.contact textarea,input[type=text],input[type=email]{
+    display: block;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    padding: 18px 30px;
+    border: none;
+    width: 100%;
+    
+background-color:#FFF;
+
+}
 
 
